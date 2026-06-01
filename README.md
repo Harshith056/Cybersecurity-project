@@ -1,5 +1,4 @@
-# Cybersecurity-project
-Password Cracking Lab | Ethical Hacking & Cybersecurity
+Password Auditing & Security Assessment
 
 Overview
 
